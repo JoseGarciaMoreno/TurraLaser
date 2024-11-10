@@ -14,7 +14,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="Bullet Shower"
+config/name="Paris Einmarschiert"
 config/description="Demonstrates how to manage large amounts of objects efficiently using low-level Servers."
 run/main_scene="res://main.tscn"
 config/icon="res://icon.png"
