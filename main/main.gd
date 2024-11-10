@@ -76,8 +76,8 @@ func on_player_health_changed():
 func on_player_death():
 	on_player_health_changed()
 	print("X_X")
-
-	get_tree().paused = true
+	print(get_tree().reload_current_scene())
+#	get_tree().paused = true
 	player = null
 	
 	
